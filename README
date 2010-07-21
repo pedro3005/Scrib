@@ -18,11 +18,13 @@ Email:          tenach [ at ] gmail [ dot ] com
 
 
 
-Requirements: ( I am sure there are more, but I have not double checked yet ).
+Requirements: 
+( I am sure there are more, but I have not double checked yet ).
 
 python-irclib ( http://python-irclib.sourceforge.net/ )
 
-Contents of tools/ is highly unstable and have undocumented requirements as of yet.
+Contents of tools/ is highly unstable and have undocumented
+requirements as of yet.
 
 ========================================================================
  .
