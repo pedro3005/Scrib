@@ -1,0 +1,29 @@
+
+========================================================================
+===================       WHUBE BUG TRACKER        =====================
+========================================================================
+
+License:        GNU AGPLv3 or later
+Author:         Thomas Martin
+Email:          tenach [ at ] gmail [ dot ] com
+
+========================================================================
+===================        WHAT YOU NEED           =====================
+========================================================================
+
+* GNU/Linux 
+   ( As paultag says: I'm sure you could get this to work with windows,
+     but that's just all kinds of dumb. Don't use nonfree crap.
+     PLUG: USE UBUNTU! IT WORKS GREAT! <3 UBUNTU!                 )
+
+
+
+Requirements: ( I am sure there are more, but I have not double checked yet ).
+
+python-irclib ( http://python-irclib.sourceforge.net/ )
+
+Contents of tools/ is highly unstable and have undocumented requirements as of yet.
+
+========================================================================
+ .
+..:
